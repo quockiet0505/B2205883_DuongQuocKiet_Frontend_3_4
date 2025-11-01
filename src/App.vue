@@ -18,13 +18,6 @@ export default {
 
 <style>
 
-#app {
-  display: flex;
-  flex-direction: column; 
-  min-height: 100vh; 
-}
-
-/* giữ style cũ */
 .page {
   max-width: 400px;
   margin: auto;
